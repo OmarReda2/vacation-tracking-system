@@ -46,4 +46,9 @@ with logging of those overrides
 -  directly award personal leave time (with system-set limits)
 - Provides access to requests for the previous calendar year, and allows requests to be made up to a year and a half in the future.
 - Uses existing hardware and middleware.
-- Is implemented as an extension to the existing intranet portal system, and uses the portal’s single-sign-on mechanisms for all authentication. 
+- Is implemented as an extension to the existing intranet portal system, and uses the portal’s single-sign-on mechanisms for all authentication.
+
+# Use Case Model (Top Level)
+- The top-level use case model contains four actors and eight use cases.
+<img width="947" height="668" alt="image" src="https://github.com/user-attachments/assets/3e56d5cf-b28f-4f82-9086-35b71a8634de" />
+
