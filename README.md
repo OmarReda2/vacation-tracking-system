@@ -52,25 +52,21 @@ with logging of those overrides
 - The top-level use case model contains four actors and eight use cases.
 <img width="947" height="668" alt="image" src="https://github.com/user-attachments/assets/3e56d5cf-b28f-4f82-9086-35b71a8634de" />
 
-- ## Manage Time Use Case
-	- **Use case name**: Manage Time
-   
-	**Actor**: Employee
-  
-	**Goal**: The employee wishes to submit a new request for vacation time.
-  
-	**Preconditions**: The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time
+### Manage Time Use Case
+
+-	**Use case name**: Manage Time 
+	-  **Actor**: Employee 
+	- **Goal**: The employee wishes to submit a new request for vacation time. 
+	- **Preconditions**: The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time
 
 
-	- **Alternate flow 1**: Cancel Approved Request
-   
-	  **Goal**: The employee wants to cancel an approved vacation time request.
-   
-	  **Preconditions**: The employee has a vacation time request that has been approved and is scheduled for some time in the future or the recent past (pre vious 5 business days)
+- **Alternate flow 1**: Cancel Approved Request 
+	-  **Goal**: The employee wants to cancel an approved vacation time request. 
+	- **Preconditions**: The employee has a vacation time request that has been approved and is scheduled for some time in the future or the recent past (previous 5 business days)
 
-	- **Alternate flow 2**: Edit Pending Request
-	  **Goal**: The employee wants to edit the description or title of a pending request.
-	  **Preconditions**: An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
+- **Alternate flow 2**: Edit Pending Request 
+	- **Goal**: The employee wants to edit the description or title of a pending request.
+	- **Preconditions**: An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
 ![manage-time](https://github.com/user-attachments/assets/4b37be45-f092-4516-9b0b-1f059cdf4d35)
 
 
