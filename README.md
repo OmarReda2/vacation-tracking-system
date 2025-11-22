@@ -52,7 +52,7 @@ with logging of those overrides
 - The top-level use case model contains four actors and eight use cases.
 <img width="947" height="668" alt="image" src="https://github.com/user-attachments/assets/3e56d5cf-b28f-4f82-9086-35b71a8634de" />
 
-## Manage Time Use Case
-<img width="629" height="685" alt="image" src="https://github.com/user-attachments/assets/55a52843-6637-44bb-ba59-179767974a72" />
+- ## Manage Time Use Case
+![manage-time](https://github.com/user-attachments/assets/4b37be45-f092-4516-9b0b-1f059cdf4d35)
 
 
