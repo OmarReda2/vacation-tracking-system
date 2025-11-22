@@ -67,6 +67,7 @@ with logging of those overrides
 - **Alternate flow 2**: Edit Pending Request 
 	- **Goal**: The employee wants to edit the description or title of a pending request.
 	- **Preconditions**: An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
+   
 ![manage-time](https://github.com/user-attachments/assets/4b37be45-f092-4516-9b0b-1f059cdf4d35)
 
 
