@@ -54,18 +54,18 @@ with logging of those overrides
 
 - ## Manage Time Use Case
 	- **Use case name**: Manage Time 
-	 **Actor**: Employee 
+	**Actor**: Employee 
 	**Goal**: The employee wishes to submit a new request for vacation time. 
 	**Preconditions**: The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time
 
 
 	- **Alternate flow 1**: Cancel Approved Request 
-**Goal**: The employee wants to cancel an approved vacation time request. 
-**Preconditions**: The employee has a vacation time request that has been approved and is scheduled for some time in the future or the recent past (pre vious 5 business days)
+	  **Goal**: The employee wants to cancel an approved vacation time request. 
+	  **Preconditions**: The employee has a vacation time request that has been approved and is scheduled for some time in the future or the recent past (pre vious 5 business days)
 
 	- **Alternate flow 2**: Edit Pending Request 
-**Goal**: The employee wants to edit the description or title of a pending request.
-**Preconditions**: An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
+	  **Goal**: The employee wants to edit the description or title of a pending request.
+	  **Preconditions**: An employee has made a vacation time request, and that request has yet to be approved or denied by an authorized manager.
 ![manage-time](https://github.com/user-attachments/assets/4b37be45-f092-4516-9b0b-1f059cdf4d35)
 
 
