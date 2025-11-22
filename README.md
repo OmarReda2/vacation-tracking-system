@@ -53,6 +53,9 @@ with logging of those overrides
 <img width="947" height="668" alt="image" src="https://github.com/user-attachments/assets/3e56d5cf-b28f-4f82-9086-35b71a8634de" />
 
 - ## Manage Time Use Case
+	- **Use case name**: Manage Time 
+	- **Actor**: Employee Goal: The employee wishes to submit a new request for vacation time. 
+	- **Preconditions**: The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time
 ![manage-time](https://github.com/user-attachments/assets/4b37be45-f092-4516-9b0b-1f059cdf4d35)
 
 
